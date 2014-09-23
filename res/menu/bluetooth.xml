@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    	<item android:title="查找蓝牙设备"
+              android:id="@+id/find"
+              android:showAsAction="always|withText"/>
+    </menu>
